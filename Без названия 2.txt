@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Trust Watch</title>
+</head>
+<body>
+  <h1>Trust Watch</h1>
+  <a href="https://t.me/rg_trust_watch">Перейти в Telegram</a>
+</body>
+</html>
